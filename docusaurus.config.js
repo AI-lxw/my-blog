@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: '博客', position: 'right'},
         {
-          href: 'https://github.com/AI-lxw',
+          href: 'https://github.com/AI-lxw/my-blog',
           label: 'GitHub',
           position: 'right',
         },
