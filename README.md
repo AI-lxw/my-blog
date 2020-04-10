@@ -1,6 +1,7 @@
 # Website
 
 使用 [Docusaurus 2](https://v2.docusaurus.io/)构建的个人blog
+已上线[点击访问](https://my-blog-ten.now.sh/)
 
 ### Installation
 
